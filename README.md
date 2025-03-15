@@ -19,7 +19,7 @@ IntelliJ IDEA (or any Java IDE)
 
 # Clone this repository:
 
-git clone https://github.com/KerolosNader69/enerioTransportation.git
+git clone https://github.com/KerolosNader69/Transportation-management-system-gui.git
 
 Open the project in IntelliJ IDEA.
 Build and run Main.java to launch the application.
